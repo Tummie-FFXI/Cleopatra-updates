@@ -1,14 +1,16 @@
 {
-  "latest": "1.0.4",
+  "latest": "0.0.5",
   "entries": [
     {
-      "version": "1.0.4",
+      "version": "0.0.5",
       "date": "2026-10-05",
-      "title": "Launcher Update Test",
+      "title": "Launcher Update System Development",
       "changes": [
-        "Added Cleopatra DAT update support.",
-        "Added SHA-256 file verification.",
-        "Added automatic update progress."
+        "Moved Cleopatra update files to the dedicated Cleopatra-updates repository.",
+        "Added SHA-256 verification for custom DAT files.",
+        "Added support for replacing outdated DAT files.",
+        "Added group and note metadata for update files.",
+        "Added update download progress to the launcher."
       ]
     }
   ]
