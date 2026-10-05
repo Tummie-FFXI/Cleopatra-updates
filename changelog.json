@@ -1,0 +1,15 @@
+{
+  "latest": "1.0.4",
+  "entries": [
+    {
+      "version": "1.0.4",
+      "date": "2026-10-05",
+      "title": "Launcher Update Test",
+      "changes": [
+        "Added Cleopatra DAT update support.",
+        "Added SHA-256 file verification.",
+        "Added automatic update progress."
+      ]
+    }
+  ]
+}
