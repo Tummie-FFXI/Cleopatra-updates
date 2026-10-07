@@ -1,12 +1,26 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "files": [
     {
-      "path": "ROM/0/TEST.DAT",
-      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/0/TEST.DAT",
-      "sha256": "8bd3e7054c99a954b5c572cd3e08175dd17eb6016fa9a4c89a5ab6bd6e8712f0",
+      "path": "ROM/181/72.DAT",
+      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/181/72.DAT",
+      "sha256": "4991a7df2ddd80db3697d299f3e22df62f8f231f68141eb5e2f98575322f2d60",
       "group": "Weapon Skills",
-      "note": "Tarutaru Dancer weapon skill effects"
+      "note": "Weapon skill names"
+    },
+    {
+      "path": "ROM/181/74.DAT",
+      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/181/74.DAT",
+      "sha256": "53f366e88d90597d1a1edfeb93b8837d7432b670a3ebdf349bc01e6be96cebb4",
+      "group": "Weapon Skills",
+      "note": "Weapon skill descriptions"
+    },
+    {
+      "path": "ROM/118/114.DAT",
+      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/118/114.DAT",
+      "sha256": "c0436704917b55c630f9a5035c2406ad122809beb8cfe57f570cf5b407f1ee45",
+      "group": "Weapon Skills",
+      "note": "Ability/Weaponskill icons"
     }
   ]
 }
