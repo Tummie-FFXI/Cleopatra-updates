@@ -21,6 +21,13 @@
       "sha256": "c0436704917b55c630f9a5035c2406ad122809beb8cfe57f570cf5b407f1ee45",
       "group": "Weapon Skills",
       "note": "Ability/Weaponskill icons"
+    },
+    {
+      "path": "ROM/118/107.DAT",
+      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/118/107.DAT",
+      "sha256": "62e00d0855838748e2b8a7f09205cfa42a408b65ab3c3b1674a353febd144191",
+      "group": "Usable Items",
+      "note": "New usable items"
     }
   ]
 }
