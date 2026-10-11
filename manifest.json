@@ -28,6 +28,13 @@
       "sha256": "62e00d0855838748e2b8a7f09205cfa42a408b65ab3c3b1674a353febd144191",
       "group": "Usable Items",
       "note": "New usable items"
-    }
+    },
+    {
+      "path": "ROM/118/109.DAT",
+      "url": "https://raw.githubusercontent.com/Tummie-FFXI/Cleopatra-updates/main/files/ROM/118/109.DAT",
+      "sha256": "f020edcd666725acfb69d306ee1893a475df75275e55f05eb79c8420e4701635",
+      "group": "Armor",
+      "note": "New Armor"
+    } 
   ]
 }
